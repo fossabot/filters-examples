@@ -1,0 +1,11 @@
+{
+  "name": "page-filter-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {},
+  "dependencies": {
+    "@domoinc/toolkit": "^2.3.0"
+  },
+  "devDependencies": {}
+}

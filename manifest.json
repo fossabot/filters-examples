@@ -1,0 +1,18 @@
+{
+  "name": "page-filter-parser",
+  "version": "1.0.0",
+  "fullpage": true,
+  "size": {
+    "width": 1,
+    "height": 1
+  },
+  "mapping": [
+    {
+      "dataSetId": "a918ca2b-4566-42ec-a640-a71a2e1f9b43",
+      "alias": "Placeholder",
+      "fields": []
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "4d6a7b21-97bc-41ac-9f6e-603cb4599fe9"
+}
